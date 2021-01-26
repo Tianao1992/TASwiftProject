@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'TestQiuShiBiK' do
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'Kingfisher','~> 3.0'
+    pod 'MJRefresh'
+    pod 'KakaJSON'
+    pod "KingfisherWebP"
+end
